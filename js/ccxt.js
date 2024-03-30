@@ -117,6 +117,7 @@ import kucoinfutures from './src/kucoinfutures.js';
 import kuna from './src/kuna.js';
 import latoken from './src/latoken.js';
 import lbank from './src/lbank.js';
+import lmex from './src/lmex.js',
 import luno from './src/luno.js';
 import lykke from './src/lykke.js';
 import mercado from './src/mercado.js';
@@ -286,6 +287,7 @@ const exchanges = {
     'kuna': kuna,
     'latoken': latoken,
     'lbank': lbank,
+    'lmex': lmex,
     'luno': luno,
     'lykke': lykke,
     'mercado': mercado,
